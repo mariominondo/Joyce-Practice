@@ -1,0 +1,26 @@
+body {
+    background-color: cornflowerblue;
+    margin: 2em;
+}
+
+h2 {
+    text-align: center;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 1em;
+}
+
+.title {
+    text-align: center;
+    color: #fff;
+}
+
+.html, .css, .javascript, .git {
+    background-color: #fff;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-radius: 5px;
+}
