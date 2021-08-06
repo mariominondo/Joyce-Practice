@@ -5,6 +5,9 @@ body {
 
 h2 {
     text-align: center;
+    background-color: rgb(189, 84, 84);
+    color: #fff;
+    padding: 10px 0px;
 }
 
 .container {
